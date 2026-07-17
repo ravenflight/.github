@@ -1,18 +1,13 @@
-# RavenFlight
+# RavenFlight - Let your dreams take flight!
 
-**We audit conversion surfaces** — every place a customer, or an AI agent acting on their behalf, can reach a business: the site, the contact form, the booking flow, the published hours and pricing. Most of it has never been checked. We test it the way real customers and real agents do, and deliver concrete, reproducible, evidence-backed findings.
+People want to give you money, is it easy for them to do so?
 
-**A finding, never a promise.** No guaranteed leads, no growth hacks — if it didn't happen in the test, it's not in the report.
+How about chatbots? Does your business support "Hey Siri, order me Thai"?
 
-## What's here
+## Tools I made
+- **[Nail down your Value Proposition](https://github.com/ravenflight/claude-skills/tree/main/skills/valueprop)** — Have a nice chat with your agent about who gives you money, when, why and how.
+- **[Keep PRs from breaking your Value Proposition](https://github.com/ravenflight/claude-skills/tree/main/skills/valueprop/skills/valueprop-guard)** - Make sure the design agency didn't just break your revenue model
 
-- **[valueprop](https://github.com/ravenflight/valueprop)** — `VALUEPROP.md`, an open spec for an agent-readable definition of how a business gets money: offers as falsifiable sentences, buyers and triggers, and machine-parsable conversion points that analytics and CI can hold to account.
-- **[rvnflt on npm](https://www.npmjs.com/package/rvnflt)** — the CLI for our eval engine: run a citation-rate check locally or gate a deploy on it in CI. (The engine itself is closed source.)
-
-## Elsewhere
-
-- 🌐 [ravenflight.io](https://ravenflight.io) — what a conversion surface is, and [how we audit](https://ravenflight.io/methodology)
-- 📋 [The conversion surface checklist](https://ravenflight.io/#checklist) — 19 things to check before you blame your traffic
-- 📅 [Book a free conversion surface review](https://cal.com/ravenflight/initial)
-
-Built in Omaha.
+## Link
+- 🌐 [Web-Site](https://ravenflight.io) - I've recently gotten on the World Wide Web (IE6 supported!)
+- 📅 [Book a consult](https://cal.com/ravenflight/initial) - I can run through the Value Proposition script with you, if you prefer talking to a human over a chatbot.
