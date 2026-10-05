@@ -1,4 +1,12 @@
+## RavenFlight Industries
 
-🌐 [Web-Site](https://ravenflight.io) - I've recently gotten on the World Wide Web (IE6 supported!)
+Your customers (and bots who love them) want to give you Money 💰
 
-📅 [Book a consult](https://cal.com/ravenflight/initial) - with a real person who wants to learn about your business / bridge club
+We make sure they can.
+
+- 🔍 **[Check your site / socials in < 1 min](https://rvnflt.com/github)**
+- 📅 **[Schedule a call](https://cal.com/ravenflight/initial)** with a real human being
+
+Built in Omaha / San Francisco
+
+[LinkedIn](https://www.linkedin.com/company/34221753)
