@@ -1,6 +1,6 @@
 ## RavenFlight Industries
 
-Your customers (and bots who love them) want to give you Money 💰
+Your customers (and bots who love them) want to pay you.
 
 We make sure they can.
 
