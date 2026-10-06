@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Shared Renovate preset for the ravenflight org. Use: { \"extends\": [\"github>ravenflight/.github\"] }. Version updates only; security updates come from Dependabot (repo setting).",
+  "extends": ["github>taraxvoid/voidflow"]
+}
